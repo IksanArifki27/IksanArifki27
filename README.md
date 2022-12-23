@@ -28,9 +28,9 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on **track back** - 🌱 I’m currently learning
-**Nexjs,GO** - 💬 Ask me about **web Developer,Mobile Developer** - 📫 How to
-reach me **m.iksanarifki@gmail.com** - 📄 Know about my experiences
+- 🔭 I’m currently working on **track back** 
+- 🌱 I’m currently learning **Nexjs,GO** - 💬 Ask me about **web Developer,Mobile Developer** 
+- 📫 How to reach me **m.iksanarifki@gmail.com** - 📄 Know about my experiences
 [https://www.linkedin.com/in/mohammad-iksan-arifki-695221222/](https://www.linkedin.com/in/mohammad-iksan-arifki-695221222/)
 - ⚡ Fun fact **I Think I Funny**
 
