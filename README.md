@@ -46,7 +46,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://linkedin.com/in/mohammad iksan arifki" target="blank"
+  <a href="https://linkedin.com/in/iksan-arifki/" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -54,7 +54,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://fb.com/iksan arifki" target="blank"
+  <a href="[https://fb.com/iksan arifki](https://www.facebook.com/iksanarifki27/)" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
