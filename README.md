@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Iksan Arifki</h1>
 <h3 align="center">
   I am an Informatics Engineering student having skills in Web Development and I
-  like for Mobile app development
+  like for Graphic Designer
 </h3>
 
 <img
@@ -32,7 +32,8 @@
 - 🌱 I’m currently learning **Nexjs,GO** 
 - 💬 Ask me about **web Developer,Mobile Developer** 
 - 📫 How to reach me **m.iksanarifki@gmail.com** 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mohammad-iksan-arifki-695221222/](https://www.linkedin.com/in/mohammad-iksan-arifki-695221222/)
+- 📄 Know about my experiences [[https://www.linkedin.com/in/iksan-arifki/](https://www.linkedin.com/in/iksan-arifki/)]([https://www.linkedin.com/in/iksan-arifki/](https://www.linkedin.com/in/iksan-arifki/))
+
 - ⚡ Fun fact **I Think I Funny**
 
 <h3 align="left">Connect with me:</h3>
