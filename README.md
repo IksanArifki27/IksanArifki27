@@ -38,7 +38,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/arifkiiksan" target="blank"
+  <a href="https://twitter.com/arifkiiksan" target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
@@ -46,7 +46,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://linkedin.com/in/iksan-arifki/" target="blank"
+  <a href="https://linkedin.com/in/iksan-arifki/" target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -54,7 +54,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="[https://fb.com/iksan arifki](https://www.facebook.com/iksanarifki27/)" target="blank"
+  <a href="https://www.facebook.com/iksanarifki27/" target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
